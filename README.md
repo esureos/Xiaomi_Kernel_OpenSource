@@ -220,3 +220,4 @@
 | uke-v-oss | Xiaomi Pad 7 | Android V | LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[uke-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/uke-v-oss) |
 | bsp-zorn-v-oss | REDMI K80  | Android V | qcom-LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[bsp-zorn-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-zorn-v-oss) |
 | bsp-miro-v-oss | REDMI K80 PRO | Android V | qcom-LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[bsp-miro-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-miro-v-oss) |
+| dada-v-oss | Xiaomi 15 / Xiaomi 15 Pro | Android V | qcom-LA.VENDOR.15.4.0.r1-08900-r1.0.r1_00022.1 | [dada-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dada-v-oss) |
