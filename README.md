@@ -222,3 +222,4 @@
 | bsp-miro-v-oss | REDMI K80 PRO | Android V | qcom-LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[bsp-miro-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-miro-v-oss) |
 | dada-v-oss | Xiaomi 15 / Xiaomi 15 Pro | Android V | qcom-LA.VENDOR.15.4.0.r1-08900-r1.0.r1_00022.1 | [dada-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dada-v-oss) |
 | emerald_r-u-oss | Redmi Note 14S | Android U | alps-mp-s0.mp1.tc8sp2-cs1-xm.V1.104_xiaomi.s0mp1.k6789v1.64_P50 |[emerald_r-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/emerald_r-u-oss) |
+| xuanyuan-v-oss | Xiaomi 15 Ultra | Android V | release-v-qcom-sm8750-O1 | [xuanyuan-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/xuanyuan-v-oss) |
